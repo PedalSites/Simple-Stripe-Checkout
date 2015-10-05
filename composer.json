@@ -1,0 +1,16 @@
+{
+    "name": "trentonmaki/simple-checkout",
+    "description": "Simple Checkout integration into wordpress",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "MakiCode",
+            "email": "trentonmaki@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "stripe/stripe-php": "^2.0@dev",
+        "ircmaxell/random-lib": "^1.1@dev"
+    }
+}
