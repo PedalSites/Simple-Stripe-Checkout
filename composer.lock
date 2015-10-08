@@ -7,7 +7,7 @@
     "hash": "3d32a512dd6dbf1b9f1fa9840b130f87",
     "packages": [
         {
-            "name": "ircmaxell/random-lib",
+            "name":  "ircmaxell/random-lib",
             "version": "dev-master",
             "source": {
                 "type": "git",

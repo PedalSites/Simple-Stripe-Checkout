@@ -25,7 +25,7 @@ class Simple_Checkout_Settings_Page
      */
     public function add_plugin_page()
     {
-        // This page will be under "Settings"
+        // This page will be under "Settings".
         add_options_page(
             'Simple Checkout Settings',
             'Simple Checkout Settings',

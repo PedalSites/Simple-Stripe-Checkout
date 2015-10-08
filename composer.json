@@ -9,7 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
+    "require" : {
         "stripe/stripe-php": "^2.0@dev",
         "ircmaxell/random-lib": "^1.1@dev"
     }
